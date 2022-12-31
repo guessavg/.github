@@ -1,1 +1,1 @@
-[Guess 2/3 of the average](https://en.wikipedia.org/wiki/Guess_2/3_of_the_average)
+[“Guess 2/3 of the Mean” dApp Game Design](https://guessavg.github.io/site/)
